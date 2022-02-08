@@ -378,7 +378,7 @@
 
         <br>
 
-        <hr width ="100%" align="left">
+       <hr width ="100%" align="left">
         <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
             Gallery of Restaurant Fjallnas</h2></center>
 
@@ -387,39 +387,45 @@
 		<div class="container">
 		
 			<div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal1.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>Interior of the Restaurant</b></div>
 			</div>
             
             <div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal2.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>One of the Course Food</b></div>
 			</div>
 
             <div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal3.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>One of the Course Food</b></div>
 			</div>
 
             <div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal4.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>Another Interior Design</b></div>
 			</div>
 
             <div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal5.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>One of the Course Food</b></div>
 			</div>
 
             <div class="gallery">
-				<img src ="Frantzen.jpeg" style= "height:285">
+                <a>
+				<img src ="fjal6.jpeg" style= "height:285">
 				</a>
-					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+					<div class ="desc"><b>Exterior of the Restaurant</b></div>
 			</div>
 
         </div>
