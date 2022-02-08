@@ -49,7 +49,7 @@
 		<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
 			
 		<ul class="menu">
-			<li><a href="home.html">Home</a></li>
+			<li><a href="index.html">Home</a></li>
 			<li><a href="place.html">Places</a></li>
 			<li><a href="Restaurant.html">Restaurants</a></li>
 			<li><a href="GamingAndEsports.html">All about Esports/Games</a></li>
