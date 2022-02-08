@@ -153,7 +153,7 @@ footer{
 /*celeb*/
 .box1{
 	background-color: rgb(37, 134, 199);
-	max-width: 1485px;
+	width: 1485px;
 	height: 330;
 	border: 5px solid rgba(237, 238, 240, 0.856);
 	padding: 40px;
@@ -162,7 +162,7 @@ footer{
 	
 .box2{
 	background-color: #51b1f0;
-	max-width: 1485px;
+	width: 1485px;
 	height: 330;
 	border: 5px solid #BEBEBE;
 	padding: 40px;

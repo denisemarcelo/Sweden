@@ -153,18 +153,20 @@ footer{
 /*celeb*/
 .box1{
 	background-color: rgb(37, 134, 199);
-	width: 1485px;
-	height: 330;
+	max-width: 1485px;
+	max-height: 330;
 	border: 5px solid rgba(237, 238, 240, 0.856);
 	padding: 40px;
+	margin: 10px;
 }
 	
 .box2{
 	background-color: #51b1f0;
-	width: 1485px;
-	height: 330;
+	max-width: 1485px;
+	max-height: 330;
 	border: 5px solid #BEBEBE;
 	padding: 40px;
+	margin: 10px;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
