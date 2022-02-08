@@ -1,0 +1,404 @@
+<html>
+
+	<head>
+		<title>Celebrities in Sweden</title>
+			<link rel="shortcut icon" type="image" href="FLAG.png">
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"  rel="stylesheet">
+			<link href="main.css" rel="stylesheet"> 
+	</head>
+
+		<style type="text/css">  
+			body{ 
+				margin:1px; 
+				font-family:'tahoma'
+				}	
+
+			p{
+				color: white;
+			}
+			
+			#h2{
+				text-align:center;
+				font-size:52;
+				font-family:Merriweather;
+				color:white;	
+				text-shadow: 0 1px 0 #919191, 
+					-1px 2px 1px #919191,
+					-2px 4px 1px #919191,
+					-3px 6px 1px #919191,
+					-4px 8px 1px #919191
+				}
+			
+			.footer2{
+				padding: 10px;
+				font-size: 17px;
+				font-weight: bold;
+				text-align: center;
+				background: rgb(37, 134, 199);
+				font-family: arial;
+				letter-spacing: 1px;
+			}
+			
+
+		</style>
+	
+<body background= "bg.jpg" style="background-size:cover">
+	<header class="header">
+		<a href="" class="logo"><img src="FLAG.png" class="rounded-circle" height="35" width="35" alt="logo">SWEDEN</a>
+		<input class="menu-btn" type="checkbox" id="menu-btn" />
+		<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+			
+		<ul class="menu">
+			<li><a href="home.html">Home</a></li>
+			<li><a href="place.html">Places</a></li>
+			<li><a href="Restaurant.html">Restaurants</a></li>
+			<li><a href="GamingAndEsports.html">All about Esports/Games</a></li>
+			<li><a href="creators.html">Creators</a></li>
+		</ul>
+</header>
+		
+<br><br><br><br><br><br>		
+	<h2 id="h2" align="center"> CELEBRITIES OF SWEDEN</h2>
+	<br>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/stellan-skarsgrd-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Stellan Skarsgård</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: June 13, 1951<br>
+		Sun Sign: Gemini<br>
+		Birthplace: Gothenburg, Sweden<br>
+		One of the most decorated and popular Swedish actors of all time, Stellan Skarsgård has made quite an impact in Hollywood. Skarsgård is also known for his interesting take on religion. <br>
+		A non-religious artist, he condemns the Bible and the Quran as violent. In 2009, he joined other non-religious personalities in writing an article explaining the importance of secularity.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQRGyIo-fCc_LvH4fYMK6YsYECBN8wvoiPzPHZpqymGCBJ7V7z5MMgMEJcJbWYq" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i> Michael Nyqvist</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: November 8, 1960<br>
+		Sun Sign: Scorpio<br>
+		Birthplace: Stockholm, Sweden<br>
+		Born Rolf Åke Mikael Nyqvist in Stockholm, Sweden, it wasn't until he was over a year old when he was finally adopted from the orphanage he had been given to. His father was a lawyer and his mother a writer.
+		It wasn't until he had his first child that he decided to seek out his biological parents.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/alexander-skarsgard.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Alexander Skarsgård</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: August 25, 1976<br>
+		Sun Sign: Virgo<br>
+		Birthplace: Stockholm, Sweden<br>
+		Alexander Johan Hjalmar Skarsgård was born in Stockholm, Sweden and is the eldest son of famed actor Stellan Skarsgård. Among his siblings are actors Gustaf Skarsgård, Bill Skarsgård, and Valter Skarsgård. 
+		For most of his formative years, his father was an acclaimed actor in Europe.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/joel-kinnaman-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Joel Kinnaman</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: November 25, 1979<br>
+		Sun Sign: Sagittarius<br>
+		Birthplace: Stockholm, Sweden<br>
+		Joel Kinnaman is an actor who holds Swedish and American citizenships. He has played important roles in popular films like RoboCop and Suicide Squad. 
+		He has also been a household name in the United States for many years with portrayals of prominent roles in TV series like House of Cards.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dolph_Lundgren_2018.jpg/1024px-Dolph_Lundgren_2018.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Dolph Lundgren</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: November 3, 1957<br>
+		Sun Sign: Scorpio<br>
+		Birthplace: Spånga, Sweden  <br>
+		Dolph Lundgren was born as Hans Lundgren in Stockholm, Sweden, to Sigrid Birgitta (Tjerneld), a language teacher, and Karl Johan Hugo Lundgren, an engineer and economist for the Swedish government. 
+		He lived in Stockholm until the age of 13, when he moved in with his grandparents in Nyland, Ångermanland, Sweden. Despite an early interest in music and the fine arts, Dolph decided to follow in his father's footsteps and pursue an Engineering degree. 
+		After having completed his military service, he enrolled at the Royal Institute of Technology in Stockholm.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/rebecca-ferguson-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Rebecca Ferguson</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actress<br>
+		Birthdate: October 19, 1983<br>
+		Sun Sign: Libra<br>
+		Birthplace: Stockholm<br>
+		Rebecca Ferguson achieved international recognition after playing Elizabeth Woodville in the TV miniseries, The White Queen. Her performance in the miniseries was so impressive that Tom Cruise handpicked her to star in Mission: Impossible – Rogue Nation 
+		after watching her portray Elizabeth Woodville. Thanks to her impressive stunts, she was chosen to reprise her role in Mission: Impossible – Fallout.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = https://static.wikia.nocookie.net/to-hollywood-and-beyond/images/8/8c/Hanna_Alstrom.jpg/revision/latest/top-crop/width/360/height/450?cb=20200708235611" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Hanna Alström</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actress<br>
+		Birthdate: March 5, 1981<br>
+		Sun Sign: Gemini<br>
+		Birthplace: Stockholm, Stockholms län, Sweden<br>
+		She started acting at Unga Teatern (The Young Theatre) when she was five years old, then together with her older sister Sara, and the theatre was directed by Maggie Widstrand. The theatre group played at many theatres in Stockholm. 
+		When Alström was six, she appeared in Staffan Götestam's play Gränsland at Puckteatern and at the Gröna Lund Theatre. Later she played some child roles at the Royal Dramatic Theatre. She studied at Sankt Eriks gymnasium and later at the Swedish National Academy of Mime and Acting. 
+		In 2014 she played Princess Tilde in the film Kingsman: The Secret Service, a role she reprised in its 2017 sequel Kingsman: The Golden Circle.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/bill-skarsgrd-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Bill Skarsgard</i></h3>
+		Listed In: Film & Theater Personalities<br>
+		Famous As: Actor<br>
+		Birthdate: August 9, 1990<br>
+		Sun Sign: Leo<br>
+		Birthplace: Vällingby, Stockholm, Sweden<br>
+		Swedish actor Bill Skarsgård is best known for portraying Pennywise the Dancing Clown in the supernatural horror film It. Even though he has acted in a few comedy films, he prefers roles in horror films. 
+		The son of actor Stellan Skarsgård, he was introduced to acting at a young age and decided to follow in his father’s footsteps.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/avicii-2.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Avicii</i></h3>
+		Listed In: Musicians<br>
+		Famous As: Musician, DJ<br>
+		Birthdate: September 8, 1989<br>
+		Sun Sign: Virgo<br>
+		Birthplace: Stockholm, Sweden<br>
+		Died: April 20, 2018<br>
+		Avicii was a Swedish international DJ, remixer, musician and songwriter. He attained fame with his single, Levels, in 2011. His debut studio album, True, released in 2013 received positive reviews. 
+		His second studio album, Stories, was released in 2015. He suffered from mental health issues and died by suicide at age 28. His third album, Tim, was released posthumously in 2019.
+    </div>
+
+    <div class="box1" align="left">
+		<img src ="https://www.looper.com/img/gallery/the-truth-about-pewdiepie-and-marzias-relationship/intro-1587656756.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>PewDiePie</i></h3>
+		Listed In: YouTubers<br>
+		Famous As: YouTube Star<br>
+		Birthdate: October 24, 1989<br>
+		Sun Sign: Scorpio<br>
+		Birthplace: Gothenburg, Sweden<br>
+		PewDiePie is the ubiquitous pseudonym for ‘Let’s Play’ pioneer and Youtube superstar, Felix Kjellberg. The controversial Swede, named in the Time magazine's list of the 100 most influential people in the world, 
+		became the first solo Youtuber to reach 100 million subscribers soon after his much-publicized tussle for top honours in terms of Youtube subscriptions against Indian corporate rival T-Series.
+    </div>
+
+    <div class="box1" align="left">
+		<img src = "https://www.thefamouspeople.com/profiles/thumbs/zara-larsson.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Zara Larsson</i></h3>
+		Listed In: Singers<br>
+		Famous As: Singer<br>
+		Birthdate: December 16, 1997<br>
+		Sun Sign: Sagittarius<br>
+		Birthplace: Solna, Sweden<br>
+		Zara Larsson is a Swedish singer-songwriter who achieved national fame at the age of 10 when she won the 2008 season of the popular reality TV series, Talang. 
+		She then released her debut studio album and is currently one of the most decorated Swedish singer-songwriters of her generation.
+    </div>
+
+    <div class="box1" align="left">
+		<img src ="https://www.thefamouspeople.com/profiles/thumbs/tove-lo-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Tove Lo</i></h3>
+		Listed In: Singers<br>
+		Famous As: Singer-songwriter<br>
+		Birthdate: October 29, 1987<br>
+		Sun Sign: Scorpio<br>
+		Birthplace: Viken, Sweden<br>
+		Grammy-nominated Swedish singer Tove Lo is known for her autobiographical lyrics and her grunge-influenced pop tracks. She soared to fame with her Billboard-charting debut album, Queen of the Clouds. 
+		She has also released hits such as Glad He's Gone and co-written tracks such as Love Me like You Do. 
+    </div>
+
+    <div class="box1" align="left">
+		<img src ="https://www.thefamouspeople.com/profiles/thumbs/victoria-crown-princess-of-sweden-8283-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Victoria, Crown Princess of Sweden</i></h3>
+		Listed In: Miscellaneous<br>
+		Famous As: Swedish throne<br>
+		Birthdate: July 14, 1977<br>
+		Sun Sign: Cancer<br>
+		Birthplace: Solna, Sweden<br>
+		Victoria, the Crown Princess of Sweden and the Duchess of Västergötland, is the eldest child of King Carl XVI Gustaf. She is the heir to the Swedish throne by Sweden’s Act of Succession that brought about royal absolute primogeniture into practice. 
+		She also works to raise money for disabled children.
+    </div>
+
+    <div class="box1" align="left">
+		<img src ="https://www.thefamouspeople.com/profiles/thumbs/joel-berghult-1.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Joel Berghult</i></h3>
+		Listed In: YouTubers<br>
+		Famous As: YouTuber<br>
+		Birthdate: April 8, 1988<br>
+		Sun Sign: Aries<br>
+		Birthplace: Gothenburg, Sweden<br>
+		After breaking the internet with his content on his YouTube channel, RoomieOfficial, Swedish singer Joel Berghult, also known as Roomie, or Lil Pitchy, teamed up with internet stars such as PewDiePie, the highest-subscribed YouTuber. 
+		True to a social-media celebrity, he has also often tweeted photos with his ex-girlfriend, Bethany Connor.
+    </div>
+
+    <div class="box1" align="left">
+		<img src ="https://www.biography.com/.image/t_share/MTY4MDk3MDc5NjQ0NjYxMDA5/greta-thunberg-looks-on-during-a-meeting-in-the-garden-of-the-hotel-de-lassay-ahead-of-a-visit-of-the-french-national-assembly-in-paris-photo-credit-should-read-lionel-bonaventureafp-via-getty-imagesj.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+	<h3 align="center"><i>Greta Thunberg</i></h3>
+		Listed In: Activist<br>
+		Famous As: Swedish environmental activist<br>
+		Birthdate: January 3, 2003<br>
+		Sun Sign: Capricorns<br>
+		Birthplace:  Stockholm, Sweden<br>
+		Greta Tintin Eleonora Ernman Thunberg is a Swedish environmental activist who is known for challenging world leaders to take immediate action for climate change mitigation. 
+		She speaks fluent English, and most of her public interactions are in English.
+    </div>
+
+<br><br>
+
+<footer>
+	<div class="footer2">
+		<h2 id="h2" align="center">CELEBRITIES WITH ROYAL BLOODLINE</h2>
+	</div>
+</footer>
+<br>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/zyWxLvcTAiRU3YFeycTvA4-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Ellen Degeneres</i></h3>
+		A familial link through Sir Thomas Fairfax makes the beloved talk-show host Ellen Degeneres and Kate Middleton, future Queen of England, distant cousins. 
+		DeGeneres tried to use her family relation to get in with one of the cutest royals, Prince George. “I saw that picture of Prince George in his robe with President Obama and I’m like, ‘I have a clothing line [ED by Ellen];
+		I can give him clothes; I can make a special robe for him,’” she told British tabloid Hello! “I don’t know why they don’t want to get in good with me because I’m like a gravy train for that kid.”
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/F45HQT2oq2fw5uKNtMyro3-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Beyoncé</i></h3>
+		Beyonce isn't just Queen B—she's also the 25th cousin, once removed, of Queen Elizabeth II. 
+		Imagine Beyoncé wearing the Crown Jewels and schmoozing with the royals. They (and I) can't handle it.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/Amyw7CvpEKUANRRjMbJVh5-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Tilda Swinton</i></h3>
+		If you've ever seen the movie Braveheart, then you know about Swinton's ancestry. The iconic actress is a direct descendant of Robert the Bruce, the Scottish King who battled with Edward I ("Longshanks") over control of Scotland in the 14th century. 
+		Hollywood, while you're in the midst of reboot mania, how about Swinton taking on the role of her heroic ancestor?
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/jUH2UyWnmf9dgN9qUFtAP-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Johnny Depp</i></h3>
+		The actor most famously known as Jack Sparrow is yet another cousin of the Queen. Depp is a 20th cousin of Queen Elizabeth through Edward III.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.vox-cdn.com/thumbor/9_11NbB9Ajqw4t_4sj2Qh959qu0=/0x142:2054x1683/1400x1400/filters:focal(0x142:2054x1683):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/44377382/madonna.0.0.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Madonna</i></h3>
+		According to the New England Historic Genealogical Society in Boston, the pop star is descended from French-Canadian Madeleine Ernard and her carpenter husband Zacharie Cloutier (1617-1708), 
+		which makes her a ninth cousin (once removed) of the Duchess of of Cornwall, Camilla Parker Bowles. They've got another famous relative on this list too.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/mpCr98Ld5Y8SiNjWvjip25-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Maggie and Jake Gyllenhaal</i></h3>
+		Our favorite Hollywood siblings can trace their family's lineage back to royalty as descendants of Edward III, King of England from 1327 through 1377, making them the Queen's 19th cousins. 
+		Behind Hilary Duff and Brooke Shields, these two have the most royal blood of any celebrity in America.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/M42ycaahNz52BzPyB3kxF5-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Paris Hilton</i></h3>
+		Hilton may act like a princess, and maybe that's because she has a royal connection herself! 
+		The socialite is the Queen's 20th cousin through Henry II on her father Richard Hilton's side of the family. That's hot.
+    </div>  
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/5FBUDL3zkdpWCKivRM9Yc5-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Céline Dion</i></h3>
+		Like Madonna, Dion is a ninth cousin once removed of Camilla Parker Bowles, making Dion and Madonna 10th cousins twice removed through Jean Guyon, 
+		one of Quebec’s earliest settlers, and 10th cousins once removed through another ancestor, Zacharie Cloutier.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/QSJQoJm37ERXJwaAYrsBM3-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Angelina Jolie</i></h3>
+		Jolie is descended from French royalty through her mother, Marie Betrand. We can trace her lineage all the way back to the 12th century French king, Phillip II, the son of Louis VII. 
+		That makes Jolie also related to Marie of France, an influential French royal of the time and Phillip's half-sister. Plus, Jolie and Her Royal Highness Queen Elizabeth II are 26th cousins. 
+		She's pretty buddy-buddy with the Windsors now, too.
+    </div>
+        
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/6PZGbuFrTQmU5UrJrdsSG3-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Brad Pitt</i></h3>
+		Jolie's ex Brad Pitt has some royal lineage as well! Pitt's roots go back to the 12th century, with King Henry II of England, which makes him the Queen's 25th cousin, twice removed. 
+		Henry II was the husband of Eleanor of Aquitaine, the first wife of Louis VII, Philip II's father. Pitt's ex, Angelina Jolie, is a descendant of Prince Philip II. Isn't it funny how things like that just happen?
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/LhX9mBKzJZrUxMUhRqsT64-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Dakota and Elle Fanning</i></h3>
+		Elle Fanning may have played Princess Aurora in Maleficent, but she and older sister, Dakota are actual princesses (kinda). They're the 22nd great-granddaughters of King Edward III, who ruled England from 1327 to 1377. 
+		They're also are the 21st cousins of the Duchess of Cambridge, as Middleton’s mother, Carole Goldsmith, is a distant granddaughter of King Edward III.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/sSQyxM257vBygJbtxWbnG4-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Michael Douglas</i></h3>
+		Michael Douglas comes from a famous family, but did you know he has royal blood? The Douglas family is actually related to King Edward III, making Michael the Queen's 19th cousin, once removed.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/y5HhYSvdLFAeMo64f7aqc4-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Kit Harington</i></h3>
+		Kit Harington has something in common with his Game of Thrones character Jon Snow: they're both descended from royalty, though Harington's lineage doesn't make him a secret king. 
+		(Spoiler alert!) Turns out, Harington is descended from Charles II of England through his grandmother, Lavender Cecilia Denny (quite possibly the most British name ever). 
+		Denny married Richard Harington, who had the title of the 12th Baronet Harington, a title that has existed since the 1400s. “My parents didn’t have a lot of money when I was growing up,” 
+		Harrington told the London Evening Standard newspaper. “We were comfortable, but I didn’t go to Oxbridge, and yet every American interviewer I get says to me, ‘You’re related to Charles II! Your grandfather was a baronet!’”
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/mSweXs5SULnon2ZiMYRDt3-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Bill Hader</i></h3>
+		Funnyman Hader is related to both King Edward I of England and Holy Roman Emperor Charlemagne is his 40th great-great grandfather. Upon discovering this on an episode of the TV show Finding Your Roots, 
+		Hader said "I mean, the conqueror of Europe? I couldn't even get the coffeemaker to work this morning."
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/XNChTrkf67ULiAUVDMzvF-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Christopher Guest and Jamie Lee Curtis</i></h3>
+		Okay, this one's a doozy. The man behind This is Spinal Tap, Best in Show, A Might Wind, and For Your Consideration and his superstar actress wife are Hollywood legends, 
+		but did you know that Guest not only holds duel-citizenship in England and the US, but is also a member of British nobility? Guest's formal title is 5th Baron Haden-Guest, 
+		and at one point, his family had a seat in the House of Lords. That means Jamie Lee Curtis's full name is Jamie Lee Haden-Guest, Baroness Haden-Guest, and she is a baroness herself. 
+		Note: while Guest is on this list of royalty, technically, he's not actually royalty, but part of the peerage. To be considered royalty, you must be related to the royal family somehow, 
+		while peers are people who've had noble title bestowed upon them by royalty, but aren't royal themselves. To make it simple, Downton Abbey is about the peerage, The Crown is about royalty.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://images.indianexpress.com/2021/12/doctor-strange-2-1200.jpg" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Benedict Cumberbatch</i></h3>
+		A legendary actor in his own right, it's no surprise he comes from a royal lineage. Cumberbatch is a descendant of King Richard III of England. 
+		Cumberbatch played his ancestor in a series for the BBC, and read a poem at the reburial of Richard III in Leicester Cathedral in 2015.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/TXBhGTwuuYwio95fjvKrg-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Tom Hanks</i></h3>
+		We've always regarded Tom Hanks as American movie royalty, but the actor can also trace his lineage all the way to Queen Elizabeth, as the British monarch's 24th cousin through King John.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/hTprgD6kVhwfDtEvGCRbM4-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Glenn Close</i></h3>
+		It turns out Glenn Close isn't just a star in her own right, the famous actress is also the 24th cousin, twice removed of Queen Elizabeth through King John.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/J22ijMoQqR998Jw47qGG43-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Alec Baldwin</i></h3>
+		The actor is a descendant of Æthelred the Unready, who was the King of England from 978 until his death in 1016, which also makes Baldwin Queen Elizabeth's 29th cousin, twice removed.
+    </div>
+
+    <div class="box2" align="left">
+		<img src ="https://cdn.mos.cms.futurecdn.net/3jdrrZQYWdKtrEFTnWvJS5-1280-80.jpg.webp" align="left" style="float: left; margin-right: 10px; margin-bottom: 5px;" width="20%" height="250">
+    <h3 align="center"><i>Richard Gere</i></h3>
+		Richard Gere is more than just Hollywood royalty–he's also got a good deal of royal blood in him. The New York native is related to Queen Elizabeth as her 22nd cousin, twice removed, through Edward I.
+
+    </div>
+
+<br><br><br><br><br><br>	
+<footer>
+	<b>Designed by: Pablo, Bryan Jorel P.</b> <i>(no copyright infringement intended, for educational purposes only)</i>
+</footer>	
+
+</body>
+</html>

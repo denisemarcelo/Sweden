@@ -1,0 +1,242 @@
+<html>
+
+	<head>
+		<title>Sweden</title>
+			<link rel="shortcut icon" type="image" href="FLAG.png">
+			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+			<link href="main.css" rel="stylesheet"> 
+	</head>
+	
+		<style>  
+			
+			#h2{
+				text-align:center;
+				font-size:52;
+				font-family:Merriweather;
+				color:white;	
+				text-shadow: 0 1px 0 #919191, 
+					-1px 2px 1px #919191,
+					-2px 4px 1px #919191,
+					-3px 6px 1px #919191,
+					-4px 8px 1px #919191
+				}
+				
+			#text{
+				text-align:center;
+				font-size:20;
+				font-family:Merriweather;
+				color:black;
+				background:#FFF8E7;
+				width:68%;
+				padding: 20px;
+				margin: 0 auto;
+				}
+				
+			.container{
+				max-width:1200px;
+				margin:auto;
+				overflow:auto;
+				}
+			
+			.gallery{
+				margin:27px;
+				float:left;
+				width:326px;
+				}
+			
+			.gallery1{
+				margin:7px;
+				float:left;
+				}
+			
+			.gallery2{
+				margin:7px;
+				float:right;
+				}
+			
+			.gallery img{
+				width:100%;
+				}
+				
+			.gallery:hover{
+				transform:scale(1.2);
+				z-index:2;
+				}
+			
+			.desc{
+				padding:15px;
+				text-align: center;
+				text-shadow: 0 1px 0 #D3D3D3, 
+					-1px 2px 1px #D3D3D3,
+					-2px 4px 1px #D3D3D3,
+					-3px 6px 1px #D3D3D3
+				}
+				
+			
+				
+		</style>
+	
+	<body background= "bg.jpg" style="background-size:cover">
+		<header class="header">
+			<a href="" class="logo"><img src="FLAG.png" class="rounded-circle" height="35" width="35" alt="logo">SWEDEN</a>
+			<input class="menu-btn" type="checkbox" id="menu-btn" />
+			<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+			
+				<ul class="menu">
+					<li><a href="place.html">Places</a></li>
+					<li><a href="Restaurant.html">Restaurants</a></li>
+					<li><a href="celeb.html">Celebrities</a></li>
+					<li><a href="#contact">All about Esports/Games</a></li>
+					<li><a href="creators.html">Creators</a></li>
+				</ul>
+		</header>
+		
+<br><br><br><br><br><br>		
+		<h2 id="h2"> BRIEF HISTORY OF SWEDEN</h2>
+		<br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+				<a href ="https://www.vasamuseet.se/en">
+				<img src ="t1.jpg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Vasa Museum, Stockholm</b></div>
+			</div>
+			
+			<div class="gallery">
+				<a href ="https://royaldjurgarden.se/en/attractions/skansen/">
+				<img src ="t2.jpg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Skansen and Djurgården, Stockholm</b></div>
+			</div>
+			
+			<div class="gallery">
+				<a href ="https://www.visitstockholm.com/o/gamla-stan/">
+				<img src ="t3.jpg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Gamla Stan, Stockholm</b></div>
+			</div>
+		</div>
+		
+		<p id="text">
+			Sweden is located on the Scandinavian Peninsula in northern Europe. The name Sweden was derived from the Svear, 
+			or Suiones, a people mentioned as early as 98 CE by the Roman author Tacitus. The country’s ancient name was Svithiod. 
+			On the other hand, Stockholm has been the permanent capital since 1523.
+			<br> <br>
+			
+			The country has a 1,000-year-long continuous history as a sovereign state, but 
+			its territorial expanse changed often until 1809. Today it is a constitutional 
+			monarchy with a well-established parliamentary democracy that dates from 1917. 
+			Swedish society is ethnically and religiously very homogeneous, although recent 
+			immigration has created some social diversity. Historically, Sweden rose from 
+			backwardness and poverty into a highly developed postindustrial society and advanced 
+			welfare state with a standard of living and life expectancy that rank among the highest in the world.
+			<br> <br>
+			
+			The country is traditionally divided into three regions: to the north is Norrland, the vast mountain 
+			and forest region; in central Sweden is Svealand, an expanse of lowland in the east and highland in the 
+			west; and in the south is Götaland, which includes the Småland highlands and, at the southern extremity, 
+			the small but rich plains of Skåne. In the far north the region of Lappland overlaps Norrland and northern Finland.
+		</p>
+<br><br><br><br>
+	<h2 id="h2" style="background-color:rgb(37, 134, 199, 0.4);text-align: center; font-size: 300%;">SWEDEN</h1>
+
+    <div class="container">
+      <div class="mySlides">
+        <div class="numbertext">1 / 6</div>
+        <img src="https://cdn.cnn.com/cnnnext/dam/assets/161208105337-medium-deluxe-suite-the-victorian-apartment-icehotel-365.jpg" style="width:100%">
+      </div>
+    
+      <div class="mySlides">
+        <div class="numbertext">2 / 6</div>
+        <img src="https://www.routesnorth.com/wp-content/uploads/2019/01/drottningholm-palace.jpg" style="width:100%">
+      </div>
+    
+      <div class="mySlides">
+        <div class="numbertext">3 / 6</div>
+        <img src="https://a.cdn-hotels.com/gdcs/production150/d379/233f5a72-9aec-4921-b5e8-925afcbca8c4.jpg" style="width:100%">
+      </div>
+        
+      <div class="mySlides">
+        <div class="numbertext">4 / 6</div>
+        <img src="https://img.guidebook-sweden.com/stockholms-kommun/storkyrkan.jpg" style="width:100%">
+      </div>
+    
+      <div class="mySlides">
+        <div class="numbertext">5 / 6</div>
+        <img src="https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/22/61/226126_v3.jpeg" style="width:100%">
+      </div>
+        
+      <div class="mySlides">
+        <div class="numbertext">6 / 6</div>
+        <img src="https://c1.wallpaperflare.com/preview/302/966/513/rapsmark-%C3%B6sterlen-sk%C3%A5ne-landscapes.jpg" style="width:100%">
+      </div>
+        
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
+    
+      <div class="caption-container">
+        <p id="caption"></p>
+      </div>
+    
+      <div class="row">
+        <div class="column">
+          <img class="demo cursor" src="https://cdn.cnn.com/cnnnext/dam/assets/161208105337-medium-deluxe-suite-the-victorian-apartment-icehotel-365.jpg" style="width:100%" onclick="currentSlide(1)" alt="Ice Hotel">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="https://www.routesnorth.com/wp-content/uploads/2019/01/drottningholm-palace.jpg" style="width:100%" onclick="currentSlide(2)" alt="Drottningholm Castle, Sweden">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="https://a.cdn-hotels.com/gdcs/production150/d379/233f5a72-9aec-4921-b5e8-925afcbca8c4.jpg" style="width:100%" onclick="currentSlide(3)" alt="Stockholm Palace">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="https://img.guidebook-sweden.com/stockholms-kommun/storkyrkan.jpg" style="width:100%" onclick="currentSlide(4)" alt="Cathedral Storkyrkan">
+        </div>
+        <div class="column">
+          <img class="demo cursor" src="https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/22/61/226126_v3.jpeg" style="width:100%" onclick="currentSlide(5)" alt="Abisko">
+        </div>    
+        <div class="column">
+          <img class="demo cursor" src="https://c1.wallpaperflare.com/preview/302/966/513/rapsmark-%C3%B6sterlen-sk%C3%A5ne-landscapes.jpg" style="width:100%" onclick="currentSlide(6)" alt="Skåne">
+        </div>
+      </div>
+    </div>
+    
+    <script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("demo");
+      var captionText = document.getElementById("caption");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+      captionText.innerHTML = dots[slideIndex-1].alt;
+    }
+    </script>
+	
+<br><br><br><br><br><br>	
+<footer>
+	<b>Designed by: Marcelo, Denise Nicole B.</b> <i>(no copyright infringement intended, for educational purposes only)</i>
+</footer>	
+	
+  </body>
+</html>

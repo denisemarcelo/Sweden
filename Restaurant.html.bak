@@ -1,0 +1,656 @@
+<html>
+
+	<head>
+		<title>Restaurants in Sweden</title>
+			<link rel="shortcut icon" type="image" href="FLAG.png">
+			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+			<link href="main.css" rel="stylesheet"> 
+	</head>
+
+    <style>  
+			
+        #h2{
+            text-align:center;
+            font-size:52;
+            font-family:Merriweather;
+            color:white;	
+            text-shadow: 0 1px 0 #919191, 
+                -1px 2px 1px #919191,
+                -2px 4px 1px #919191,
+                -3px 6px 1px #919191,
+                -4px 8px 1px #919191
+            }
+            
+        #text{
+            text-align:justify;
+            font-size:20;
+            font-family:Merriweather;
+            color:black;
+            background:#FFF8E7;
+            width:85%;
+            padding: 20px;
+            margin: 0 auto;
+            }
+            
+        .container{
+            max-width:1200px;
+            margin:auto;
+            overflow:auto;
+            }
+        
+        .gallery{
+            margin:27px;
+            float:left;
+            width:326px;
+            }
+        
+        .gallery1{
+            margin:7px;
+            float:left;
+            }
+        
+        .gallery2{
+            margin:7px;
+            float:right;
+            }
+        
+        .gallery img{
+            width:100%;
+            }
+            
+        .gallery:hover{
+            transform:scale(1.2);
+            z-index:2;
+            }
+        
+        .desc{
+            padding:15px;
+            text-align: center;
+            text-shadow: 0 1px 0 #D3D3D3, 
+                -1px 2px 1px #D3D3D3,
+                -2px 4px 1px #D3D3D3,
+                -3px 6px 1px #D3D3D3
+            }
+            
+    </style>
+
+<body background= "BGRES.jpeg" style="background-size:cover">
+	<header class="header">
+		<a href="" class="logo"><img src="FLAG.png" class="rounded-circle" height="35" width="35" alt="logo">SWEDEN</a>
+		<input class="menu-btn" type="checkbox" id="menu-btn" />
+		<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+			
+		<ul class="menu">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="place.html">Places</a></li>
+			<li><a href="Celeb.html">Celebrities</a></li>
+			<li><a href="GamingAndEsports.html">All about Esports/Games</a></li>
+			<li><a href="creators.html">Creators</a></li>
+		</ul>
+    </header>
+
+    <br><br><br><br><br><br>
+    <br>
+		<h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            FAMOUS RESTAURANTS IN SWEDEN</h2>
+		<br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+				<a href ="#Frantzen">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+			
+			<div class="gallery">
+				<a href ="#Tak">
+				<img src ="Tak.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Tak, Stockholm</b></div>
+			</div>
+			
+			<div class="gallery">
+				<a href ="#Sjomagasinet">
+				<img src ="Sjomagasinet.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Sjomagasinet, Göteborg</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Fjallnas">
+				<img src ="Fjallnas.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Fjallnas, Tanndalen</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Gastrologik">
+				<img src ="Gastrologik.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Gastrologik, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Oaxen">
+				<img src ="Oaxen.jpg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Oaxen, Stockholm</b></div>
+			</div>
+
+		</div>
+
+        
+        <a name= "Frantzen"></a>
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Restaurant Frantzen, Stockholm, Sweden</h2></center>
+
+		<p id="text">
+                Frantzén, is a restaurant in Stockholm, situated on Klara Norra Kyrkogata number 26. 
+            In 2010, it received two stars in the Michelin Guide, and in 2018 it became the first Swedish restaurant to receive a third Michelin star.
+            <br> <br>
+            The restaurant opened in 2008 at the same address as the small one-star restaurant Mistral, which had closed in December 2007. 
+            It was opened by chef Björn Frantzén and pastry chef Daniel Lindeberg, who had both worked at Edsbacka krog (Sweden's first restaurant with two Michelin stars) before deciding to leave and open their own restaurant, with the goal of becoming the first restaurant in Sweden with three Michelin stars.
+            In 2009, the restaurant earned its first Michelin star, and within less than a year, earned another, appearing on the 2010 Michelin Guide with two.
+            The restaurant changed its name from Frantzén/Lindeberg to Frantzén in 2013. Frantzén closed shop in 2016 to relocate to larger premises. Set across three storeys of a spruced-up 19th-century townhouse in the Norrmalm district, the restaurant re-opened a year later to justified rapture.
+            <br> <br>
+                Frantzén’s food is a unique hybrid of Nordic cuisine that marries classic and modern techniques inspired by local and international tradition with Asian notes. It's menu revolves around seasonally available ingredients. 
+            Using local foods contributes to the precisely-executed meals. 
+            Dishes include the likes of langoustine tail fried with puffed rice and a clarified butter and ginger dip, 
+            Japanese egg custard with pork broth, chives and umami seaweed-dusted crisp skin and the iconic Fattiga riddare, a fried toast of sorts with truffle, onions, cheese and 100-year-old balsamic vinegar. 
+            However, their fixed menu is 4 200 SEK per guest plus your choice of beverages.
+            It is the same menu for lunch and dinner. Beverage pairing, alcoholic and non-alcoholic is available.      
+        </p></div>
+
+        <br>
+
+        <hr width ="100%" align="left">
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Gallery of Restaurant Frantzen</h2></center>
+
+        <br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+                <a href ="#Frantzen">
+				<img src ="Frant1.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>The Cube</b></div>
+			</div>
+            
+            <div class="gallery">
+                <a href ="#Frantzen">
+				<img src ="frant2.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Open Kitchen and 23 Bar Seats</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Frantzen"></a>
+				<img src ="frant3.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Frantzén’s “fattiga riddare”</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Frantzen"></a>
+				<img src ="frant4.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b> The Ingredients </b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Frantzen"></a>
+				<img src ="frant5.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b> The Chefs of Frantzen</b></div>
+			</div>
+
+            <div class="gallery">
+				<a href ="#Frantzen"></a>
+				<img src ="Frantzenchef.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Founder and owner Björn Frantzén</b></div>
+			</div>
+
+        </div>
+
+            <br>
+            <hr width ="100%" align="left">
+            <a name= "Tak"></a>
+            <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+                Restaurant Tak, Stockholm, Sweden</h2></center>
+    
+            <p id="text">
+                    Tak, is also a restaurant in Stockholm, situated on Brunkebergstorg 2-4, 111 51. 
+                    We could also see through its large windows and from the outdoor terrace on the top of At Six hotel, you can see the Royal Opera, the Royal Palace, the City Hall, Kaknästornet, Stockholm Cathedral and much more.
+                    <br><br>
+                    The merge between Scandinavia and Japan is the core philosophy at TAK. It is  a bright and stylish indoor restaurant, serving modern Scandinavian food influenced by Japanese cooking methods and flavours.
+                    With nordic produce and Japanese cooking techniques, TAK’s Head Chef Frida Ronge has developed a robust gastronomic vision that constitutes a red line for everything done in the kitchen.
+                    Situated on the top floors overlooking Brunkebergstorg, the 160 capacity restaurant quickly established itself as one of Stockholms culinary institutions after the opening in 2017. 
+                    It is also where the rooftop bars are available you can enjoy crafted signature cocktails, draught beers, Asian inspired lunch dishes, afternoon BBQ, rooftop yoga and an outstanding 360-degree view over Stockholm. 
+                    Also, they have airy rooftop terrace, completed with an indoor bar lounge that also holds a community-dining area called Izakaya, where you can enjoy small dishes with Asian inspiration, as well as a creative drink menu.  
+                    TAK was designed and furnished by award-winning architect Gert Wingårdh. 
+                    The result is a Nordic environment with elegant and Japanese elements in architecture, interior, and feel — a timeless and disarming atmosphere that is perfected by the spectacular view.
+            </p></div>
+    
+            <br>
+
+            <hr width ="100%" align="left">
+            <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+                Gallery of Restaurant Tak</h2></center>
+    
+            <br>
+            
+            <div class="container">
+            
+                <div class="gallery">
+                    <a>
+                    <img src ="Tak1.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Interior of the Restaurant</b></div>
+                </div>
+                
+                <div class="gallery">
+                    <a>
+                    <img src ="Takculidirec.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Chef Frida Ronge</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="tak2.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>The Chefs and Staffs</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="tak3.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Rooftop Bar</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="tak5.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>One of the Course Food of Tak</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="tak6.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>One of the Course Food of Tak</b></div>
+                </div>
+
+            </div>
+
+                <hr width ="100%" align="left">
+                <a name= "Sjomagasinet"></a>
+                <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+                    Restaurant Sjomagasinet, Göteborg, Sweden</h2></center>
+        
+                <p id="text">
+                        Sjomagasinet, is a restaurant in Göteborg, situated on Klippans Kulturreservat Adolf Edelsvärds gata 5 SE-414 51. 
+                        Sjömagasinet is located in an old warehouse for the East India Company, dating back to the 18th century.
+                        Sjömagasinet is a flagship for Swedish gastronomy and offers excellent service in a rustic setting. The restaurant has a picturesque location by the waterfront in Klippan.
+                    <br> <br>
+                    The restaurant is run by Ulf Wagner, awarded Swedish restaurateur of the year in 2016, and his head chef Gustav Trägårdh, awarded Swedish chef of the year in 2010. 
+                    Both are renowned chefs with long experiences of creating gastronomic experiences. Wagner aims to provide a “total dining experience” meaning that the food, beverages and spiritual fulfillment are equally important at this restaurant. 
+                    They serve freshly caught seafood in both classic and innovative ways, such as baked halibut, truffle hake with red wine sauce and delicious lobster soup. 
+                    The menu varies daily depending on what ingredients are available and everything is cooked with seasonal produce for a guaranteed fine dining experience.
+                </p></div>
+                
+                <br>
+        
+                <hr width ="100%" align="left">
+                <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+                    Gallery of Restaurant Sjomagasinet</h2></center>
+        
+                <br>
+                
+                <div class="container">
+                
+                    <div class="gallery">
+                        <img src ="sjo1.jpg" style= "height:285">
+                        </a>
+                            <div class ="desc"><b>Interior of the Restaurant</b></div>
+                    </div>
+                    
+                    <div class="gallery">
+                        <a>
+                        <img src ="sjo2.jpeg" style= "height:285">
+                        </a>
+                            <div class ="desc"><b>Fried, salted brisket of elk served with beet roots, capers and potatoes cooked in cream.
+
+                            </b></div>
+                    </div>
+        
+                    <div class="gallery">
+                        <a>
+                        <img src ="sjo3.jpeg" style= "height:265, width=280">
+                        </a>
+                            <div class ="desc"><b>A starter from the à la carte menu, Swedish bleak roe from Kalix.</b></div>
+                    </div>
+        
+                    <div class="gallery">
+                        <a>
+                        <img src ="Sjo4.jpeg" style= "height:285">
+                        </a>
+                            <div class ="desc"><b>The Ingredients</b></div>
+                    </div>
+        
+                    <div class="gallery">
+                        <a>
+                        <img src ="sjo5.jpg" style= "height:285">
+                        </a>
+                            <div class ="desc"><b>One of the Dessert of Sjomagasinet</b></div>
+                    </div>
+        
+                    <div class="gallery">
+                        <a>
+                        <img src ="sjo6.jpeg" style= "height:285">
+                        </a>
+                            <div class ="desc"><b>Chef de Cuisine Leif Mannerström</b></div>
+                    </div>
+      
+                </div>
+
+        <hr width ="100%" align="left">
+        <a name= "Fjallnas"></a>
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Restaurant Fjallnas, Tanndalen, Sweden</h2></center>
+
+		<p id="text">
+                Fjallnas, is a restaurant in Tanndalen, situated on Malmagsvägen 33, 840 98. 
+        
+            <br> <br>
+            Those dreaming of the majestic views and the crisp mountain air of the Swedish highlands should book a table – and maybe a room, too – at the country’s oldest mountain hotel and restaurant. 
+            Fjällnäs consists of several 19th century wooden houses with vast areas of unspoiled nature right on their doorstep. 
+            Take a walk in the surroundings and quench your thirst with water straight from a mountain lake; then sit down in the restaurant, where local flora and fauna are transformed into dishes that get inspiration from the area’s rich food heritage. 
+            Each season provides new and exciting tastes from reindeer meat to cloudberries, spruce shoots and whitefish roe.
+        </p></div>
+
+        <br>
+
+        <hr width ="100%" align="left">
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Gallery of Restaurant Fjallnas</h2></center>
+
+        <br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+            
+            <div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+        </div>
+
+        <hr width ="100%" align="left">
+        <a name= "Gastrologik"></a>
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Restaurant Gastrologik, Stockholm, Sweden</h2></center>
+
+		<p id="text">
+                Gastrologik, is a restaurant in Stockholm, situated on Artillerigatan 14, 114 51.
+                Gastrologik was founded by Jacob Holmström and Anton Bjuhr. They continue to run the restaurant today.
+                Logical Swedish gastronomy is based on close cooperation between us and passionate farmers, growers, breeders, fishermen and hunters who share the same values as we do in terms of quality; as well as environmentally and ethically.
+                We have chosen to work with exclusively Swedish produce. Close proximity contributes to fine cooperation with producers,  and that, in turn, triggers our creativity. 
+                The local climate and the dramatic difference in our seasons affords us a great variety of produce throughout the year, and no day is the same.
+            <br> <br>
+            Gastrologik is at the forefront of dynamic and modern Scandinavian cooking.
+            There is no menu at Gastrologik. We simply allow the producers to decide which ingredients we use. 
+            The seasons control the changing produce, and so we adapt and adjust the menu on a daily basis. 
+            We also think that the not knowing enhances the experience of eating a tasting menu. 
+            Therefore, it is not possible to see the menu before visiting the restaurant. 
+            Everyone will have a written menu of what they have enjoyed during the evening when they leave the restaurant.
+            Let today’s produce decide is our fixed menu, and consists of approximately twenty small servings.
+            Diners choose from a set three- or six-course menu, which changes frequently, as the chefs work closely with suppliers to deliver the freshest and most readily available produce with a nod to sustainability and tradition. 
+
+        </p></div>
+
+        <br>
+        
+        <hr width ="100%" align="left">
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Gallery of Restaurant Gastrologik</h2></center>
+
+        <br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+				<a>
+				<img src ="g1.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Interior of the Restaurant</b></div>
+			</div>
+            
+            <div class="gallery">
+				<a>
+				<img src ="g2.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>One of the Course Food of Gastrologik</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="g3.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>One of the Course food of Gastrologik</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="g4.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>The Chefs and Staffs</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="g5.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>The Ingredients</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="g6.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Founders Jacob Holmström and Anton Bjuhr</b></div>
+			</div>
+
+        </div>
+
+        <hr width ="100%" align="left">
+        <a name= "Oaxen"></a>
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Restaurant Oaxen, Stockholm, Sweden</h2></center>
+
+		<p id="text">
+                Oaxen Krog, also known as Oaxen Krog & Slip, previously Oaxen Skärgårdskrog is a restaurant in Stockholm, situated on Beckholmsvägen 26, 115 21.
+                The restaurant founded in 1994 by Magnus Ek and Agneta Green developed into one of the most highly rated restaurants in Sweden and was named one of the 50 best restaurants in the world five years in a row by Restaurant Magazine.
+                It closed in September 2011 and in 2013 the new Oaxen Krog & Slip opened near Beckholmsbron at Djurgården in Stockholm in a new building by architects Mats Fahlander and Agneta Pettersson. 
+                In 2014, the restaurant was awarded one Michelin star and in 2015 it was awarded two stars.
+                <br> <br>
+                Oaxen’s follow the variations of the seasons and explore the wild herbs that grow here on Djurgården. 
+                We choose unique produce, from our closest neighbouring areas to the Nordic region’s ultimate limits where, quality, taste, sustainable agriculture and humane animal rearing go hand-in-hand. 
+                Nature is the inspiration that shapes our thoughts when creating our menu. We serve old world wines from Europe which are sourced from small, carefully selected vineyards that share our philosophy.
+                Oaxen’s also produce – plus a house farm – drives the ten-course menu, flavours of which ebb and flow like the tide, offering well-placed contrast. 
+                Spruce cone with sour cream and sea buckthorn, lamb steak with seaweed and black garlic and trout with apple miso, asparagus and rhubarb are emblematic. 
+                High ceilings, an open kitchen and Scandi furnishings offer subtle ambiance.
+        </p></div>
+            
+        <br>
+
+        <hr width ="100%" align="left">
+        <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+            Gallery of Restaurant Oaxen</h2></center>
+
+        <br>
+		
+		<div class="container">
+		
+			<div class="gallery">
+				<a>
+				<img src ="o1.jpg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Interior of the Restaurant</b></div>
+			</div>
+            
+            <div class="gallery">
+				<a>
+				<img src ="Frantzen.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Restaurant Frantzen, Stockholm</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="o3.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Norräna herring with brown butter and pickled sand leek "capers", served on some tender potato</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="o4Ingredients.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>The Ingredients</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="o5.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Gamey Swedish duck with chanterelle mushrooms, onion puree topped with ramson capers, a little piece of barbecued leg meat, and a spruce crème covered with ever so thinly shaved celeriac</b></div>
+			</div>
+
+            <div class="gallery">
+				<a>
+				<img src ="o6.jpeg" style= "height:285">
+				</a>
+					<div class ="desc"><b>Chef Patron Magnus Ek and Lady of the House Agneta Gree</b></div>
+			</div>
+
+        </div>
+
+            <hr width ="100%" align="left">
+            <center><h2 id="h2"  style="background-color:rgb(77, 157, 223);"> 
+                FAMOUS FOOD IN SWEDEN</h2></center>
+    
+            <br>
+            
+            <div class="container">
+            
+                <div class="gallery">
+                    <a>
+                    <img src ="fs1.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Köttbulla</b></div>
+                </div>
+                
+                <div class="gallery">
+                    <a>
+                    <img src ="fs2.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Sill</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs3.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Ärtsoppa</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs4.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Pitepalt</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs5.jpeg" style= "height:285">
+                </a>
+                        <div class ="desc"><b>Kräftor</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs6.jpg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Blodpudding</b></div>
+                </div>
+
+                <div class="gallery">
+                    <a>
+                    <img src ="fs7.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Prinsesstårta</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs8.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Smörgåstårta</b></div>
+                </div>
+    
+                <div class="gallery">
+                    <a>
+                    <img src ="fs9.jpeg" style= "height:285">
+                    </a>
+                        <div class ="desc"><b>Semla</b></div>
+                </div>
+
+            </div>
+			
+<br><br><br><br><br><br>	
+<footer>
+	<b>Designed by: Evangelista, Roseville Jeanne L.</b> <i>(no copyright infringement intended, for educational purposes only)</i>
+</footer>	
+	
+  </body>
+</html>
